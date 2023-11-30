@@ -16,6 +16,7 @@
 
 body{
     background: var(--main-background);
+    font-family: 'Outfit', sans-serif;
 }
 
 .flex-column .row{
